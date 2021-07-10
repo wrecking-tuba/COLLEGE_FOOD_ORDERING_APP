@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704811622162",
+    "firebase_url": "https://clg-food-app-3a4c3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "clg-food-app-3a4c3",
+    "storage_bucket": "clg-food-app-3a4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704811622162:android:c873389f8e72214ee09dcb",
+        "android_client_info": {
+          "package_name": "com.example.college_food_ordering_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704811622162-7as16j4thcdaek37h1ch5ce6s3togcdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjO6-KVlUnS-GA3P-wGzeeBNT5xDuLlCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704811622162-7as16j4thcdaek37h1ch5ce6s3togcdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
