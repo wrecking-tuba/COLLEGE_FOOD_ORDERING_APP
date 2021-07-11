@@ -14,9 +14,11 @@
         android:theme="@style/Theme.College_Food_ordering_application">
         <activity android:name=".cheffFoodPanel.chef_postDish"></activity>
         <activity android:name=".ForgotPassword"/>
-        <activity android:name=".CustomerFoodPanel_BottomNavigation" />
+        <activity android:name=".CustomerFoodPanel_BottomNavigation"
+            android:theme='@style/Theme.AppCompat.DayNight.DarkActionBar'/>
         <activity android:name=".ChefForgotPassword" />
-        <activity android:name=".ChefFoodPanel_BottomNavigation" />
+        <activity android:name=".ChefFoodPanel_BottomNavigation"
+            android:theme='@style/Theme.AppCompat.DayNight.DarkActionBar'/>
         <activity android:name=".Registration" />
         <activity android:name=".Loginphone" />
         <activity android:name=".Login" />
